@@ -1,5 +1,3 @@
-import trello as trello
-
 import telebot
 import requests
 
